@@ -16,7 +16,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/talyta-fernanda-cardoso-da-silva-3978ab300)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyta.077?igsh=MWp3NDYyOW5ydWpsaA%3D%3D&utm_source=qr)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talytacademic@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Tales077)
 
 <p><strong><em> Apaixonada pela aréa de tecnologia e design, construindo a cada dia uma nova motivação para mudar a vida das pessoas através da programação.</em></strong></p>
 
