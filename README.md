@@ -7,9 +7,11 @@
 <br> <span> 😄 Pronomes: Ele/Ela </span> <br>
   
   <a href="https://github.com/tales066"> 
-  <img src="euu.gif" height="100">
+  <img src="euu.gif" height="200">
 </a>
 </p> 
+
+<p><strong><em> Contate-me </em></strong></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/talyta-fernanda-cardoso-da-silva-3978ab300)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lyta.077?igsh=MWp3NDYyOW5ydWpsaA%3D%3D&utm_source=qr)
