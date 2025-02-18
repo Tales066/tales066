@@ -24,7 +24,7 @@
 ![Tales GitHub stats](https://github-readme-stats.vercel.app/api?username=tales066&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tales066&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 style="font-family: 'Courier New', monospace;"> Tecnologias que eu utilizei/utilizo no curso de BTI</h2>
+<h2 style="font-family: 'Courier New', monospace;"> Tecnologias que eu utilizei/utilizo no curso de Tecnologia da informação</h2>
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
