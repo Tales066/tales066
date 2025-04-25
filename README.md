@@ -4,7 +4,7 @@
 <span> 🌱 Estudando Front-End</span>  
 <br> <span> 💻 Cursando Tecnologia da Informação </span> 
 <br> <span> 📊 Aréas de interesse: Front-end, Web designer, Desenvolvedor Web e UI/UX designer </span> 
-<br> <span> 😄 Pronomes: Ele/Ela </span> <br>
+<br> <span> 😄 Pronomes: Ela/dela </span> <br>
   
   <a href="https://github.com/tales066"> 
   <img src="euu.gif" height="200">
