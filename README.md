@@ -3,8 +3,7 @@
 <p> 
 <span> 🌱 Estudando Front-End</span>  
 <br> <span> 💻 Cursando Tecnologia da Informação </span> 
-<br> <span> 💻 Cursando Tecnologo em Banco de Dados </span>
-<br> <span> 📊 Aréas de interesse: Front-end, Web designer, Desenvolvedor Web, UI/UX designer, Análise de dados e Cibersegurança</span> 
+<br> <span> 📊 Aréas de interesse: Front-end, Web designer, Desenvolvedor Web, UI/UX designer, Análise de dados e Requisitos</span> 
 <br> <span> 😄 Pronomes: Ela/dela </span> <br>
   
   <a href="https://github.com/tales066"> 
